@@ -1,0 +1,25 @@
+{
+  "Transacciones": [
+    {
+      "id": "1",
+      "codigo": "184SDF",
+      "monto": 100.00,
+      "fecha": "2023-10-16",
+      "idusuario": "1"
+    },
+    {
+      "id": "2",
+      "codigo": "685SRD",
+      "monto": 50.00,
+      "fecha": "2023-10-15",
+      "idusuario": "1"
+    },
+    {
+      "id": "3",
+      "codigo": "846RWG",
+      "monto": 200.00,
+      "fecha": "2023-10-14",
+      "idusuario": "1"
+    }
+  ]
+}
